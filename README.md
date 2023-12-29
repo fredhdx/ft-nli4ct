@@ -2,6 +2,7 @@
 ## Dongxu Huang, Jingwen Che, Wanying Tian
 ## Simon Fraser University
 
+> A model that uses Large Language Model’s zero-shot inference capability to conduct textual entailment for clinical trial reports. Main contribution is a set of tuned methods that works directly with long, unfiltered full clinical trial reports while maintain comparable performance to models that work with section filtered data.
 > Code will be released soon.
 
 ## Quick Startup
